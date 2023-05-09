@@ -1,4 +1,5 @@
 .vscode
 /jenkins/
 /logs/
+/jenkins_home
 
